@@ -4,6 +4,6 @@
 
 *The Onion UI Development Team*
 
-<p>&nbsp;</p>
+<h3 align="right"><i><a href="https://github.com/OnionUI/Onion"><sup>Click here </sup><sub><img src="https://user-images.githubusercontent.com/44569252/179354719-036b5634-fcaf-4cdb-a6d7-0ad62fd683d1.png" width="32"></sub></a><sup> to collect your Onion!</sup></i></h3>
 
-<h3 align="center"><i><a href="https://github.com/OnionUI/Onion"><sup>Click here </sup><sub><img src="https://user-images.githubusercontent.com/44569252/179354719-036b5634-fcaf-4cdb-a6d7-0ad62fd683d1.png" width="32"></sub></a><sup> to collect your Onion!</sup></i></h3>
+<p>&nbsp;</p>
