@@ -6,8 +6,4 @@
 
 <p>&nbsp;</p>
 
-![onion_banner_nologo](https://user-images.githubusercontent.com/44569252/179354239-ca6ae132-5807-4c6a-8432-22b16fe57d7b.png)
-
-<p>&nbsp;</p>
-
-<h3 align="right"><i><a href="https://github.com/OnionUI/Onion"><sup>Click here </sup><sub><img src="https://user-images.githubusercontent.com/44569252/179354719-036b5634-fcaf-4cdb-a6d7-0ad62fd683d1.png" width="32"></sub></a><sup> to collect your Onion!</sup></i></h3>
+<h3 align="center"><i><a href="https://github.com/OnionUI/Onion"><sup>Click here </sup><sub><img src="https://user-images.githubusercontent.com/44569252/179354719-036b5634-fcaf-4cdb-a6d7-0ad62fd683d1.png" width="32"></sub></a><sup> to collect your Onion!</sup></i></h3>
