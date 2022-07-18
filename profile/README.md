@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 
-# <img alt="Onion UI" src="https://user-images.githubusercontent.com/44569252/179354362-642c7ef5-2c74-49bb-aa8b-79d764cb4111.png#gh-dark-mode-only" width="225px"><img alt="Onion UI" src="https://user-images.githubusercontent.com/44569252/179354365-21830e63-2c79-464c-b3b6-3fcae6e4bbf7.png#gh-light-mode-only" width="225px">
+# <img alt="Onion UI" src="https://user-images.githubusercontent.com/44569252/179510198-44580903-87e3-4c94-9248-fd2d32b6339d.png#gh-dark-mode-only" width="258px"><img alt="Onion UI" src="https://user-images.githubusercontent.com/44569252/179510201-32d0f1d0-e064-4871-bb3f-c5079fb20d5e.png#gh-light-mode-only" width="258px">
 
 *The Onion UI Development Team*
 
